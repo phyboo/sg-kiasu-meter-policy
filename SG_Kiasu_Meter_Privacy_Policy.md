@@ -1,6 +1,6 @@
 # Privacy Policy for SG Kiasu Meter GPT
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** 21-Aug-2025  
 
 SG Kiasu Meter GPT (“the CustomGPT”) respects your privacy. This Privacy Policy explains how information is handled when you use this CustomGPT.  
 
@@ -24,7 +24,7 @@ SG Kiasu Meter GPT (“the CustomGPT”) respects your privacy. This Privacy Pol
 - For data handled by OpenAI, please see the [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy).  
 
 ## 6. Contact  
-If you have concerns about privacy regarding SG Kiasu Meter GPT, you can reach the creator at: [Insert Contact Link].  
+If you have concerns about privacy regarding SG Kiasu Meter GPT, you can reach the creator at: https://github.com/phyboo  
 
 ---  
 
